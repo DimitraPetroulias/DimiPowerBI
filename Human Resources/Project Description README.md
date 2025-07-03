@@ -76,7 +76,7 @@ Include the relationship between attrition and the following demographics:
   - Clustered Bar Chart & Matrix: Attrition by job role
 
 ### D. Final Dashboard
-- Download dashboard
+- Download dashboard: https://github.com/DimitraPetroulias/DimiPowerBI/blob/main/Human%20Resources/Capstone%20Project.pbix
 - ![HR PowerBI Dashboard](https://github.com/user-attachments/assets/a6332f05-4477-43b3-b140-a37e60f957a1)
 
 
